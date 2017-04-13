@@ -11,5 +11,12 @@
   "dependencies": {
     "express": "^4.15.2",
     "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carl2108/myapp.git"
   }
 }

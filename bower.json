@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "carloconnor <carl.oconnor@bearingpoint.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/carl2108/myapp",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4"
+  },
+  "resolutions": {
+    "jquery": ">=1.6.3 <3"
+  }
+}
